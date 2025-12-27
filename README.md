@@ -12,11 +12,14 @@ This report details the design and implementation of Smart AI Study Hub, an inte
 <h1></h1>
 </div>
 
-<img alt="Night Coding" src="(https://github.com/mamunur-ynu/Smart_AI_Study_Hub/blob/main/Screenshot%202025-12-27%20213750.png?raw=true" align="center"/>
+<img alt="Night Coding" src="(https://github.com/mamunur-ynu/Smart_AI_Study_Hub/blob/main/Screenshot%202025-12-27%20213750.png?raw=true" />
 <img alt="Night Coding" src="(https://github.com/mamunur-ynu/Smart_AI_Study_Hub/blob/main/Screenshot%2025-12-27%213819.png?raw=true" align="center"/>
 <img alt="Night Coding" src="(https://github.com/mamunur-ynu/Smart_AI_Study_Hub/blob/main/Screenshot%2025-12-27%213915.png?raw=true" align="center"/>
 <img alt="Night Coding" src="(https://github.com/mamunur-ynu/Smart_AI_Study_Hub/blob/main/Screenshot%2025-12-27%214031.png?raw=true" align="center"/>
 <img alt="Night Coding" src="(https://github.com/mamunur-ynu/Smart_AI_Study_Hub/blob/main/Screenshot%2025-12-27%214151.png?raw=true" align="center"/>
 <img alt="Night Coding" src="(https://github.com/mamunur-ynu/Smart_AI_Study_Hub/blob/main/Screenshot%2025-12-27%214235.png?raw=true" align="center"/>
+
+<img alt="Night Coding" src="https://github.com/mejbauddin/Calculator-MESBAH-UD-2004-/blob/main/Images/different-parts.png?raw=true" align="center"/>
+
 
 <h1></h1>
