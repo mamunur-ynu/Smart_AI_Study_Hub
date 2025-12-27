@@ -6,6 +6,7 @@ This report details the design and implementation of Smart AI Study Hub, an inte
 <div align="center">  
   
 ![Aditya Vikram Singh Banner](https://github.com/mamunur-ynu/Smart_AI_Study_Hub/blob/main/Screenshot%202025-12-27%20040508.png?raw=true)
+![Aditya Vikram Singh Banner](https://github.com/mamunur-ynu/Smart_AI_Study_Hub/blob/main/Screenshot%202025-12-27%20040508.png?raw=true)
   
 </div>
 <div align="center">  
